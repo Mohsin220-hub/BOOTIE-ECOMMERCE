@@ -1,0 +1,21 @@
+#xyz{
+
+
+
+    padding: 30px;
+    height: 30px;
+    background-color: brown;
+    color: black;
+}
+#count{
+
+
+    font-size: 40px;
+    color: brown;
+    /* padding: 30px; */
+    background-color: yellow;
+    text-align: center;
+    /* padding-top: 50px; */
+justify-content: center;
+
+}
