@@ -441,3 +441,29 @@ console.log(Object.values(studentobj))
 
 //key values pair
 console.log(Object.entries(studentobj))
+
+
+let student3={
+
+
+name: "hamid",
+age: 19,
+gmial: hamidmaraj.com
+
+}
+
+
+student3.prototype.hello3={
+
+console.log("thi name is"+name)
+
+}
+
+
+
+
+
+
+
+
+
