@@ -453,11 +453,12 @@ gmial: hamidmaraj.com
 }
 
 
-student3.prototype.hello3={
+//student3.prototype.hello3={
 
-console.log("thi name is"+name)
+//console.log("thi name is"+name)
 
-}
+// }
+
 
 
 
