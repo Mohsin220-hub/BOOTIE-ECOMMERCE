@@ -1,0 +1,25 @@
+.navbar{
+    background-image:url(./img/blue\ shoes.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    height: 200px;
+}
+.navpara{
+    margin-left: 13px;
+}
+.navbtn{
+    margin-left: 15px;
+}
+.navbar2{
+   margin-left: 70px;
+   
+}
+.navbar1{
+    margin-left: 10px;
+    font-size:20px;
+}
+/* .navbar2,.navbar3,.navbar4,.navbar5,.navbar6{
+    
+} */
